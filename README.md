@@ -391,3 +391,5 @@ for num, name, sc, odds in zip(numbers, names, scores, breakeven_odds):
 - 他券種（複勝・馬連・三連系）への対応  
 - 強化学習による「回収率最大化」学習  
 - 調教時計・馬体重・外厩情報など追加因子の導入  
+
+https://github.com/seiitirou/NEW-ICP/blob/main/Read%20me2
